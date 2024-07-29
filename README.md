@@ -24,8 +24,8 @@ Parameters include temperature, planet albedo, white daisy albedo, black daisy a
  The second screen displays the simulation in action.
 The grid shows the distribution of black and white daisies and uncovered land.
 Three real-time graphs display:
-Daisy populations over time.
-Temperature changes over time.
+Daisy populations over time, 
+Temperature changes over time,
 Daisy growth rate over temperature.
 
 # Instructions
