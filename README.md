@@ -39,7 +39,7 @@ Daisy growth rate over temperature.
 * Virus death rate of 0.05 
 
 Use the sliders on the control panel to set your desired initial conditions for the simulation.
-Default settings are recommended for a balanced simulation but feel free to experiment with different values.
+Ideal settings are recommended for a balanced simulation but feel free to experiment with different values.
 
 # Starting the Simulation:
 
