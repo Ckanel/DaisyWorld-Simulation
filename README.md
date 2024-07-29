@@ -17,11 +17,11 @@ The simulation is divided into two main parts:
 
 * Control Panel:
 
-Located on the first screen, the control panel allows you to adjust various parameters before starting the simulation.
+ Located on the first screen, the control panel allows you to adjust various parameters before starting the simulation.
 Parameters include temperature, planet albedo, white daisy albedo, black daisy albedo, solar flux, virus death rates, world size, uncovered land ratio, and the black to white ratio of daisies.
-Simulation Screen:
+* Simulation Screen:
 
-The second screen displays the simulation in action.
+ The second screen displays the simulation in action.
 The grid shows the distribution of black and white daisies and uncovered land.
 Three real-time graphs display:
 Daisy populations over time.
@@ -50,8 +50,8 @@ The simulation screen will display the initial state of the world based on your 
 Use the "UPDATE SIMULATION" buttons to advance the simulation by different time increments (X10, X50, X100).
 Observe how the daisy populations and temperature evolve over time through the graphical outputs.
 # Technical Details
-Programming Language: Processing
-Libraries Used: Standard Processing libraries for GUI and simulation graphics.
+- Programming Language: Processing
+- Libraries Used: Standard Processing libraries for GUI and simulation graphics.
 # Usage
 * Download and Install Processing: Ensure you have Processing installed on your machine.
 * Clone the Repository: git clone https://github.com/yourusername/daisyworld-simulation.git
