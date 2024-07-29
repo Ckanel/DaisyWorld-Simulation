@@ -54,7 +54,7 @@ Observe how the daisy populations and temperature evolve over time through the g
 - Libraries Used: Standard Processing libraries for GUI and simulation graphics.
 # Usage
 * Download and Install Processing: Ensure you have Processing installed on your machine.
-* Clone the Repository: git clone https://github.com/yourusername/daisyworld-simulation.git
+* Clone the Repository: git clone https://github.com/ckanel/daisyworld-simulation.git
 * Open the Project: Open the project in Processing.
 * Run the Simulation: Click the run button in Processing to start the DaisyWorld Simulation.
 
